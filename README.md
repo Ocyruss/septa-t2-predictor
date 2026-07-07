@@ -12,4 +12,4 @@ Septa GTFS static feed for scheduling
 Actively collecting data since 07/03/26 using poller 
 
 ## __Project Technology Stack__
-Python,request,pandas,SQLite/CSV
+Python, request, pandas, SQLite/CSV
